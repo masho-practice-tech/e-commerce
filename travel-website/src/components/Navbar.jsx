@@ -10,7 +10,7 @@ const Navbar = () => {
           <nav className="fixed top-0 left-0 w-full z-30 bg-black bg-opacity-60 backdrop-blur-sm">
             <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
               <div className="text-3xl font-bold text-teal-400 cursor-pointer select-none">
-                Alif Tour
+                <a href="#home">Alif Tour</a>
               </div>
               <ul className="hidden md:flex space-x-8 text-white font-semibold">
                 <li><a href="#home" className="hover:text-teal-400 transition">Home</a></li>

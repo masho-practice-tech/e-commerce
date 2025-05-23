@@ -10,8 +10,9 @@ const Hero = () => {
               muted
               loop
               playsInline
-              // Sample royalty free video from Pexels videos (small size)
-              src="https://cdn.pixabay.comhttps://cdn.pixabay.com/video/2025/05/01/276047_tiny.mp4/vimeo/214624405/Sea%20Waves%20On%20Sand-7280.mp4?width=1280&hash=9a0c7890743367d8f95a6db6d6a98827b1022ebe"
+              
+
+              src="https://videos.pexels.com/video-files/30391342/13024418_640_360_60fps.mp4"
               type="video/mp4"
             />
             {/* Overlay content */}
