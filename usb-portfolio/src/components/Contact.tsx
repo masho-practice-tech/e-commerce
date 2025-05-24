@@ -6,7 +6,7 @@ const Contact = () => {
           id="contact"
           className="mb-20 max-w-4xl mx-auto"
         >
-          <h3 data-aos='zoom-in' className="text-3xl  font-semibold text-gray-900 dark:text-white mb-6 md:ml-80 ml-24 inline border-b-4 border-pink-600 ">
+          <h3 data-aos='zoom-in' className="text-3xl  font-semibold text-gray-900 dark:text-white mb-10 md:ml-80 ml-24 inline border-b-4 border-pink-600 ">
             Contact Me
           </h3>
           <form data-aos='fade-up'
